@@ -9,7 +9,7 @@ st.set_page_config(page_title="SkyLogBook", layout="wide")
 # st.title("✈️ My Flight Logger")
 st.markdown("<h1 style='text-align: center;'>SkyLogBook</h1>", unsafe_allow_html=True)
 # --- Load Data ---
-df = pd.read_csv("Flight Logger.csv")
+df = pd.read_csv("flight_data.csv")
 
 # --- Generate Points (Pins) ---
 points = pd.DataFrame({
