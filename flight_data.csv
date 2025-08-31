@@ -19,3 +19,6 @@ date_of_travel,departure_city,departure_country,departure_airport_code,departure
 18/11/2024,Visakhapatnam,India,VTZ,Visakhapatnam International Airport,Delhi,India,DEL,Indira Gandhi International Airport,17.722953,83.229037,28.55475,77.099527,1357,Indigo,6E5344,Airbus,,,24F,Window,Economy
 27/12/2024,Delhi,India,DEL,Indira Gandhi International Airport,Mumbai,India,BOM,Chhatrapati Shivaji Maharaj International Airport,28.55475,77.099527,19.090396,72.864137,1137,Air India,AI2425,Airbus,,,27F,Window,Economy
 01/01/2025,Mumbai,India,BOM,Chhatrapati Shivaji Maharaj International Airport,Delhi,India,DEL,Indira Gandhi International Airport,19.090396,72.864137,28.55475,77.099527,1137,Air India,AI2419,Airbus,,,24B,Middle,Economy
+13/08/2025,Delhi,India,DEL,Indira Gandhi International Airport,Vijaywada,India,VGA,Vijaywada International Airport,28.55475,77.099527,16.531471,80.799607,1500,Indigo,6E2065,Airbus,A321,VT-NCK,30A,Window,Economy
+13/08/2025,Vijaywada,India,VGA,Vijaywada International Airport,Hyderabad,India,HYD,Rajiv Gandhi International Airport,16.531471,80.799607,17.231141,78.43157,263,Indigo,6E2065,Airbus,A321,VT-NCK,30A,Window,Economy
+18/08/2025,Hyderabad,India,HYD,Rajiv Gandhi International Airport,Delhi,India,DEL,Indira Gandhi International Airport,17.231141,78.43157,28.55475,77.099527,1390,Indigo,6E6043,Airbus,A321,VT-NCH,30F,Window,Economy
